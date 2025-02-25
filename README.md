@@ -1,6 +1,6 @@
 # Personal-portfolio
 
-Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experiences as a Software Engineer . You can view the live site at [Portfolio Domain.](https://sakshamk-portfolio.netlify.app/
+Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experiences as a Software Engineer . You can view the live site at [Portfolio Domain.](https://sakshamk-portfolio.netlify.app/ )
 
 ## About the Project
 
